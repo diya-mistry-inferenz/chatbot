@@ -7,7 +7,7 @@ from luisbot import LuisBot
 app = Flask(__name__)
 loop = asyncio.get_event_loop()
 
-botsettings = BotFrameworkAdapterSettings("","")
+botsettings = BotFrameworkAdapterSettings("200fbfe7-c328-48c3-99ff-87936d452005","42538808-64b5-4e09-9bf7-7594411adea9")
 botadapter = BotFrameworkAdapter(botsettings)
 
 CONMEMORY = ConversationState(MemoryStorage())
