@@ -1,0 +1,18 @@
+{
+    "name": "ebot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "c80a6490-5e24-11eb-8a9d-f173961537f2",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\admin\\OneDrive\\Desktop\\ebot.bot"
+}
